@@ -1,0 +1,5 @@
+E:/ARM/COTS/2-HAL/IRremote/IR.program.c:32:6:HIR_voidInit	16	static
+E:/ARM/COTS/2-HAL/IRremote/IR.program.c:74:4:HIR_u8GetData	8	static
+E:/ARM/COTS/2-HAL/IRremote/IR.program.c:84:13:EXTI_ISR	8	static
+E:/ARM/COTS/2-HAL/IRremote/IR.program.c:99:13:Timer_ISR	16	static
+E:/ARM/COTS/2-HAL/IRremote/IR.program.c:120:8:HIR_u8GetKeyValue	8	static

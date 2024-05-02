@@ -1,0 +1,6 @@
+E:/ARM/COTS/1-MCAL/02-DIO/DIO_program.c:16:6:MGPIO_VidSetPinDirection	16	static
+E:/ARM/COTS/1-MCAL/02-DIO/DIO_program.c:131:6:MGPIO_VidSetPinValue	16	static
+E:/ARM/COTS/1-MCAL/02-DIO/DIO_program.c:169:6:MGPIO_u8GetPinValue	24	static
+E:/ARM/COTS/1-MCAL/02-DIO/DIO_program.c:194:6:MGPIO_VidSetPORTValue	16	static
+E:/ARM/COTS/1-MCAL/02-DIO/DIO_program.c:215:6:MGPIO_VidSetPORTDirection	32	static
+E:/ARM/COTS/1-MCAL/02-DIO/DIO_program.c:352:6:MGPIO_voidSetPinAlterntaveFunction	16	static

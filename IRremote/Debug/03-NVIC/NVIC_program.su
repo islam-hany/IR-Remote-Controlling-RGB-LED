@@ -1,0 +1,6 @@
+E:/ARM/COTS/1-MCAL/03-NVIC/NVIC_program.c:20:6:MNVIC_voidEnableInterrupt	16	static
+E:/ARM/COTS/1-MCAL/03-NVIC/NVIC_program.c:46:6:MNVIC_voidDisableInterrupt	16	static
+E:/ARM/COTS/1-MCAL/03-NVIC/NVIC_program.c:67:6:MNVIC_voidSetPendingFlag	16	static
+E:/ARM/COTS/1-MCAL/03-NVIC/NVIC_program.c:87:6:MNVIC_voidClearPendingFlag	16	static
+E:/ARM/COTS/1-MCAL/03-NVIC/NVIC_program.c:107:4:MNVIC_u8GetActiveFlag	24	static
+E:/ARM/COTS/1-MCAL/03-NVIC/NVIC_program.c:131:6:MNVIC_voidSetPriority	24	static
